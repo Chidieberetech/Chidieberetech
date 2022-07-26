@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/Teroxlab" target="blank"><img src="https://img.shields.io/twitter/follow/Teroxlab?logo=twitter&style=for-the-badge" alt="Teroxlab" /></a> </p>
 
-- 🔭 I’m currently working on **Projects in Flutter and Dart**
+- 🔭 I’m currently working on **Projects in Java and Python**
 
-- 🌱 I’m currently learning **React & Dart**
+- 🌱 I’m currently learning **React & GO**
 
 - 💬 Ask me about **Web and Mobile App Dev**
 
