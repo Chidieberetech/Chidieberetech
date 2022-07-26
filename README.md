@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Web and Mobile App Dev**
 
-- 💬 Ask me about **I Play with Wordpress 😂🤣🤣**
+- 💬 Ask me about **I Play with Wordpress 🤣🤣**
 
 - 📫 How to reach me **info@teroxlab.com**
 
