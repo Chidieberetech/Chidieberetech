@@ -14,13 +14,14 @@
 
 - 💬 Ask me about **Web and Mobile App Dev**
 
-- 📫 How to reach me **fakunletolulope05@gmail.com**
+- 💬 Ask me about **I Play with Wordpress 😂🤣🤣**
+
+- 📫 How to reach me **info@teroxlab.com**
 
 - ⚡ Fun fact **I'm a student of the ALX Software Engineering Programme**
  
  ## 🔗 Links
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/tolulopefakunle/dashboard)
-[![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2TH9k3DtCjwPUovh-Sb-Qg)
+[![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCreJLQkThgjcjdhLyszfw4w)
 [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@fakunletolulope05)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/tolutech/)
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tolucoder)
