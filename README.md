@@ -14,7 +14,9 @@
 
 - 💬 Ask me about **Web and Mobile App Dev**
 
-- 💬 Ask me about **I Play with Wordpress 🤣🤣**
+- ▶️ Join me as **I Play with Wordpress 🤣🤣**
+
+- 🎮 Clear My BR Clan **COD Veteran**
 
 - 📫 How to reach me **info@teroxlab.com**
 
