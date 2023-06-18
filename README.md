@@ -10,17 +10,17 @@
 
 - 🔭 I’m currently working on **Projects in Java and Python**
 
-- 🌱 I’m currently learning **React & GO**
+- 🌱 I’m currently learning **Java & C++**
 
-- 💬 Ask me about **Web and Mobile App Dev**
+- 💬 Ask me about **CyberSecurity, Web, and Mobile App Dev**
 
-- ▶️ Join me as **I Play with Wordpress 🤣🤣**
+- ▶️ Join me as **I Play with Wordpress, Azure, and  AWS 🤣🤣**
 
 - 🎮 Clear My BR Clan **COD Veteran**
 
 - 📫 How to reach me **info@teroxlab.com**
 
-- ⚡ Fun fact **I'm a student of the ALX Software Engineering Programme**
+- ⚡ Fun fact **I like working smart to working hard 🤣 **
  
  ## 🔗 Links
 [![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCreJLQkThgjcjdhLyszfw4w)
@@ -70,7 +70,7 @@ Name | Badges
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Teroxlab&theme=dark" alt="Teroxlab" /></p>
 <br/>
- <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
+ <b>Note:</b> The top languages shown here is just a measure of what I have posted here on GitHub and not my actual skill level
 
 
 > <a href="https://github.com/Teroxlab/github-readme-activity-graph"><img alt="Teroxlab' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Teroxlab&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
