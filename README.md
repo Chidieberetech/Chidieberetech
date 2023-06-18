@@ -73,7 +73,7 @@ Name | Badges
  <b>Note:</b> The top languages shown here is just a measure of what I have posted here on GitHub and not my actual skill level
 
 
-> <a href="https://github.com/Teroxlab/github-readme-activity-graph"><img alt="Teroxlab' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Teroxlab&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+> <a href="https://github.com/Teroxlab/github-readme-activity-graph"><img alt="Teroxlab Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Teroxlab&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
