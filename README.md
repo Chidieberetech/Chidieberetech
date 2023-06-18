@@ -71,7 +71,9 @@ Name | Badges
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Teroxlab&theme=dark" alt="Teroxlab" /></p>
 <br/>
  <b>Note:</b> The top languages shown here is just a measure of what I have posted here on GitHub and not my actual skill level
-
+ <br>
+  <br>
+  
 
 
 [![Teroxlab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Teroxlab)](https://github.com/Teroxlab/github-readme-activity-graph)
