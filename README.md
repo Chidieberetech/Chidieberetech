@@ -55,10 +55,10 @@ Name | Badges
 
 ## ❤ Views and Followers.
 
-<a href="https://github.com/Teroxlab/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Teroxlab">
+<a href="https://github.com/Chidieberetech/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Chidieberetech">
 </a>
-<a href="https://github.com/Teroxlab?tab=followers"><img src="https://img.shields.io/github/followers/Teroxlab?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Chidieberetech?tab=followers"><img src="https://img.shields.io/github/followers/Chidieberetech?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
  <br>
@@ -68,7 +68,7 @@ Name | Badges
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teroxlab&layout=compact&theme=dark&hide_border=false" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Teroxlab&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Teroxlab's Github Statistics" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Teroxlab&theme=dark" alt="Teroxlab" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chidieberetech&theme=dark" alt="Chidieberetech" /></p>
 <br/>
  <b>Note:</b> The top languages shown here is just a measure of what I have posted here on GitHub and not my actual skill level
  <br>
@@ -76,11 +76,11 @@ Name | Badges
   
 
 
-[![Teroxlab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Teroxlab)](https://github.com/Teroxlab/github-readme-activity-graph)
+[![Teroxlab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chidieberetech)](https://github.com/Chidieberetech/github-readme-activity-graph)
 
 <br/>
 
 <!---
-Teroxlab/Teroxlab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Chidieberetech/Chidieberetech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
