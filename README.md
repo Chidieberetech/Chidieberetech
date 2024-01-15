@@ -66,7 +66,7 @@ Name | Badges
  
  ## Stats.
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chidieberetech&layout=compact&theme=dark&hide_border=false" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chidieberetech&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Teroxlab's Github Statistics" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chidieberetech&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Chidieberetechb's Github Statistics" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chidieberetech&theme=dark" alt="Chidieberetech" /></p>
 <br/>
@@ -76,7 +76,7 @@ Name | Badges
   
 
 
-[![Teroxlab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chidieberetech)](https://github.com/Chidieberetech/github-readme-activity-graph)
+[![Chidieberetech's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chidieberetech)](https://github.com/Chidieberetech/github-readme-activity-graph)
 
 <br/>
 
